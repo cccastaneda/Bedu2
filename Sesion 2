@@ -1,0 +1,23 @@
+<html> 
+<head>
+<title>  BEDU </title> 
+<style> 
+h1 { color: #e02323;}
+
+</style>
+<h1>Bienvenido a BEDU</h1>  
+
+<h2> Bienvenido a BEDU</h2> 
+<p>Hola </p> 
+<img src="https://www.pexels.com/es-es/foto/persona-sosteniendo-gatito-blanco-con-collar-de-flores-1643457/">
+<Input type="text"/>
+<Input type="number"/>
+<Input type="date"/>
+<button> ACEPTAR </button>
+</head>
+<body> 
+
+</body>
+
+
+</html>
